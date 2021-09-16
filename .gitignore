@@ -1,7 +1,0 @@
-.vscode
-[bB]uild
-third/vcpkg
-*.jpg
-*.ini
-.cache-install
-docs/
